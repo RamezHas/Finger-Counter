@@ -85,10 +85,3 @@ python fingercounter.py
 
 ---
 
-## 📜 License
-
-This project is open-sourced under the [MIT License](LICENSE).
-
----
-
-*Happy coding! 🚀 If you like this project, please star it on GitHub! ⭐*
